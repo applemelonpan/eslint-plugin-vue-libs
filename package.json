@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-vue-libs",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "eslint plugin for vue.js projects",
   "main": "index.js",
   "repository": {
@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.18.2",
-    "eslint-plugin-vue": "^5.1.0"
+    "eslint-plugin-vue": "^9.1.1"
   }
 }
