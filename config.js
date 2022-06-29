@@ -3,7 +3,7 @@ module.exports = {
   plugins: ['vue-libs'],
 
   parserOptions: {
-    parser: require.resolve('babel-eslint'),
+    parser: require.resolve('@babel/eslint-parser'),
     ecmaVersion: 2017,
     sourceType: 'module'
   },
